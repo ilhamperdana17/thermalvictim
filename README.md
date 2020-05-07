@@ -7,3 +7,6 @@ This research is about detecting airplane wreckages from webcam camera and victi
 1. Install caffe 
 2. Specify the location of the model
 3. Run the .py file
+
+# Preview
+![Thermal Detection](wreckagevictimdetection.png)
