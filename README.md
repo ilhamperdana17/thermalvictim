@@ -1,7 +1,7 @@
 # Thermalvictim
 This work is based on my final project thesis on my bachelor degree of mechatronics
 
-This research is about detecting airplane wreckages from webcam camera and victim from thermal camera using Deep Learning CNN
+This research is about detecting airplane wreckages from webcam camera and victim from thermal camera using Deep Learning CNN using MobileNet-SSD architecture
 
 # How to use
 1. Install caffe 
