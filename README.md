@@ -5,7 +5,7 @@ This research is about detecting airplane wreckages from webcam camera and victi
 
 # How to use
 1. Install opencv , numpy, imutils
-2. Specify the location of the model and the image 
+2. Specify the location of the model and the image (Edit on .py file)
 3. Run the .py file
 
 # Preview
